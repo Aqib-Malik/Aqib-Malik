@@ -43,15 +43,6 @@ Git · Google Maps API · Stripe · Figma · Docker (basic) · CI/CD
 
 > 💼 Explore more in the [Repositories](https://github.com/your-github-username?tab=repositories) section.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## 📫 Get in Touch
 
